@@ -1,3 +1,4 @@
 notify:
   webhooks:
     - url: http://141f76b0.ngrok.com/callbacks/circle
+    - url: https://141f76b0.ngrok.com/callbacks/circle
